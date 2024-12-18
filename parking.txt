@@ -1,0 +1,3 @@
+P001 esprit1 100 Indoor Yes 10 Suburbs A001
+P002 esprit2 200 Outdoor No 20 Downtown A007
+P003 esprit3 50 Indoor Yes 5 Airport A003
