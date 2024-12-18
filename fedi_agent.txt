@@ -1,0 +1,3 @@
+A001	12345678	98765432	A001@gmail.com	Male	25	Yes	Junior
+A002	11234567	99876543	A002@gmail.com	Female	30	Yes	Intermediate
+A003	10987654	97654321	A003@gmail.com	Male	35	No	Expert
