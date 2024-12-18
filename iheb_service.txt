@@ -1,0 +1,3 @@
+S001 tyre 3.000 5min Cool 1 Yes Check
+S002 CarWash 15.000 30min Turbo 3 No Clean
+S003 engine 500.000 2days Turbo 5 Yes Tune
